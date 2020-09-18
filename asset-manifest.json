@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/React-Deploy/static/js/main.1c51b394.chunk.js",
+    "main.js.map": "/React-Deploy/static/js/main.1c51b394.chunk.js.map",
+    "runtime-main.js": "/React-Deploy/static/js/runtime-main.69a1c978.js",
+    "runtime-main.js.map": "/React-Deploy/static/js/runtime-main.69a1c978.js.map",
+    "static/css/2.4fe71220.chunk.css": "/React-Deploy/static/css/2.4fe71220.chunk.css",
+    "static/js/2.5c49f6a2.chunk.js": "/React-Deploy/static/js/2.5c49f6a2.chunk.js",
+    "static/js/2.5c49f6a2.chunk.js.map": "/React-Deploy/static/js/2.5c49f6a2.chunk.js.map",
+    "index.html": "/React-Deploy/index.html",
+    "precache-manifest.1f9215f4bad23a6a68886fe679c396e0.js": "/React-Deploy/precache-manifest.1f9215f4bad23a6a68886fe679c396e0.js",
+    "service-worker.js": "/React-Deploy/service-worker.js",
+    "static/css/2.4fe71220.chunk.css.map": "/React-Deploy/static/css/2.4fe71220.chunk.css.map",
+    "static/js/2.5c49f6a2.chunk.js.LICENSE": "/React-Deploy/static/js/2.5c49f6a2.chunk.js.LICENSE",
+    "static/media/index.css": "/React-Deploy/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69a1c978.js",
+    "static/css/2.4fe71220.chunk.css",
+    "static/js/2.5c49f6a2.chunk.js",
+    "static/js/main.1c51b394.chunk.js"
+  ]
+}
